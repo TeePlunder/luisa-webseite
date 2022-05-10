@@ -1,4 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&display=swap');
+
 .title,
 .btn {
   text-transform: uppercase;
+}
+
+.title {
+  font-size: 7vw;
+  font-weight: 900;
+  font-family: 'Mochiy Pop P One', sans-serif;
+}
+
+.btnGroup button {
+  margin: 5px;
 }
